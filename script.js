@@ -23,7 +23,7 @@ export default function () {
   // Konfigurasi params untuk menyisipkan header kustom
   const params = {
     headers: {
-      'X-API-TOKEN': '2dbb4cd1-38f4-421d-be2f-e514ae0082ad',
+      'X-API-TOKEN': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiQWJkdWwiLCJ1c2VybmFtZSI6ImFiZHVsIiwiZXhwIjoxNzgxODU5NTI5fQ.UGiGCtkZs9WH1d-XO3ySwL61rhI_DO2AT2KoPkLl4Ts',
       'Content-Type': 'application/json',
     },
   };
